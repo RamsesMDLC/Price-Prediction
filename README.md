@@ -14,12 +14,14 @@ Predicting the selling price given the characteristics of the cars.
 | `mileage`     | Square footage of the house.         |
 | `reg_code` | Number of bedrooms.                  |
 | `standard_colour` | City where the house is located.     |
-
--  Features: public_reference, mileage, reg_code, standard_colour, 
-standard_make,  standard_model,  vehicle_condition, 
-year_of_registration,  body_type,  crossover_car_and_van  and 
-fuel_type. 
--  Target variable: price        
+| `standard_make` | City where the house is located.     |
+| `standard_model` | City where the house is located.     |
+| `vehicle_condition` | City where the house is located.     |
+| `year_of_registration` | City where the house is located.     |
+| `body_type` | City where the house is located.     |
+| `crossover_car_and_van` | City where the house is located.     |
+| `fuel_type` | City where the house is located.     |
+| `price` | City where the house is located.     | 
 
 ## Description
 * This project applies several machine learning algorithms to predict cars prices (tabular data of 402007 cars).
