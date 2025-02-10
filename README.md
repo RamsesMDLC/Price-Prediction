@@ -4,10 +4,10 @@
 Predicting the selling price given the characteristics of the cars.
 
 ## Dataset
-* Tabular data. MS Excel file (csv format)
-* 402005 rows of data (i.e., 402005 cars)
+* Tabular data. MS Excel file (csv format).
+* 402005 rows of data (i.e., 402005 cars).
 * The dataset shows twelve (12) columns, where eleven (11) were features and one (1) was the target variable.
-* From  the  twelve  (12)  columns  shown,  (8)  columns  represent  physical attributes of the vehicle except for the subjective variable of "price", and the  systemic  features  (from  public  or  private  organizations) of "public_reference", "reg_code", and "year_of_registration"
+* From  the  twelve  (12)  columns  shown,  (8)  columns  represent  physical attributes of the vehicle except for the subjective variable of "price", and the  systemic  features  (from  public  or  private  organizations) of "public_reference", "reg_code", and "year_of_registration".
 
 ### Data Dictionary
 | Column     | Description                          |
