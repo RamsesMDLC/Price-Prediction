@@ -31,10 +31,10 @@ Predicting the selling price given the characteristics of the cars.
 * In this project, the respective pipelines were developed and implemented to execute data processing, feature engineering, model application, model evaluation, and model comparison.
 * SHAP (SHapley Additive exPlanations) and Partial Dependence Plots (PDPs) were used for model interpretability.
 
-![image](https://github.com/user-attachments/assets/fda3d91c-b523-447d-a353-ac19d0b6be60)
-
-
 ## Key Insights
 * Random forest and boosted trees outperformed linear regression and polynomial regression, which is reasonable considering the distinct pricing patterns in the dataset.
 * The results of this project demonstrate the relevance of using different machine learning models for the prediction of car prices (i.e., for specific price ranges, there are specific models with better performance). In other words, a single machine learning model is not able to predict with high accuracy the price of all the cars that are in the dataset.
 * Feature engineering is extremely important to improve the performance of the models.
+
+![image](https://github.com/user-attachments/assets/279e4b5c-a58e-4e05-8d4a-198d5adec72a)
+
